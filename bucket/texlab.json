@@ -1,7 +1,7 @@
 {
     "version": "5.20.0",
     "description": "Language Server Protocol for LaTeX",
-    "homepage": "https://texlab.netlify.com",
+    "homepage": "https://github.com/latex-lsp/texlab",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
